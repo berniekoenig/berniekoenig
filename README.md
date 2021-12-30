@@ -3,6 +3,8 @@
 I'm trying to learn how to manipulate python pandas DataFrames.  Here is some sample code :
 
 import pandas as pd
+
+
 Income_Data=pd.read_csv(\'C:\Users\Bkoenig\InvestingMachineLearning/us-income-annual.csv',\delimiter=";")
 
 This is what I'm doing and I keep getting the following error:
